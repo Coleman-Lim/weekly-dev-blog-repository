@@ -1,0 +1,29 @@
+h1{ 
+    color: red
+}
+h2{ font-size: x-large;
+    color: blue
+}
+h3{ font-size: medium;
+    color:green
+}
+h4{ font-size: small;
+    color:orange
+    
+}
+h5{font-size: x-large;
+    color:chartreuse
+}
+li{
+    color:purple
+}
+
+h6{
+    font-size: x-large;
+    color:aqua
+}
+
+h7{
+    font-size: x-large;
+    color: pink
+}
